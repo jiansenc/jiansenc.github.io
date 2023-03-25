@@ -4,3 +4,10 @@ node_modules
 .idea
 .fleet
 ./package-lock.json
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+.deploy*/
